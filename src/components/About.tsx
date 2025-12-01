@@ -10,7 +10,7 @@ function About() {
 
         <div className="space-y-8 text-white/80 text-lg font-light leading-relaxed tracking-wide">
           <p>
-            I'm the Director of Public Relations for the Los Santos City Government, working on public communication and coordinating with city departments. I have a Bachelor of Fine Arts, with experience in photography and graphic design, which I use to make city communications clear, visually engaging, and professional.
+            I'm the Director of Public Relations for the Los Santos City Government, working with the people of Los Santos and maintining GOV's reputation. I have a Bachelor of Fine Arts, with experience in photography and graphic design, which I use to make city visually engaging, and professional.
           </p>
 
           <p>
