@@ -44,7 +44,6 @@ function Contact() {
             © 2025 Clara Lawrence. All rights reserved.
           </p>
           <p className="text-white/50 text-sm font-light tracking-[0.2em]">
-            
             (( This website is not affiliated with GTAW, Its sole purpose is to portray an IC character ))
           </p>
         </div>
