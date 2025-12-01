@@ -110,8 +110,6 @@ export const albums: Album[] = [
       'https://i.imgur.com/fwsKwl0.jpeg',
       'https://i.imgur.com/MlwsuPS.jpeg',
       'https://i.imgur.com/hBx2L81.jpeg',
-      '',
-      '',
     ],
   },
   {
