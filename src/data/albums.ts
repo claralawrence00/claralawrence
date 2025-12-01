@@ -75,11 +75,24 @@ export const albums: Album[] = [
   {
     id: 'media-partnerships',
     title: 'Press Conference - October',
-    thumbnail: 'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=400',
+    thumbnail: 'https://i.imgur.com/JjrASyp.jpeg',
     images: [
-      'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg',
-      'https://images.pexels.com/photos/3183201/pexels-photo-3183201.jpeg',
-      'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg',
+      'https://i.imgur.com/JjrASyp.jpeg',
+      'https://i.imgur.com/jY9cL9t.jpeg',
+      'https://i.imgur.com/u4tyYBY.jpeg',
+      'https://i.imgur.com/VfznUnF.jpeg',
+      'https://i.imgur.com/auq5X89.jpeg',
+      'https://i.imgur.com/E1X9S0P.jpeg',
+      'https://i.imgur.com/YwpfBdn.jpeg',
+      'https://i.imgur.com/6VY9ShU.jpeg',
+      'https://i.imgur.com/Hq4zQfQ.jpeg',
+      'https://i.imgur.com/BgJEg1L.jpeg',
+      'https://i.imgur.com/JoDkAyW.jpeg',
+      'https://i.imgur.com/8XyEQxq.png',
+      'https://i.imgur.com/qTPqwlW.jpeg',
+      'https://i.imgur.com/MhEuMEC.jpeg',
+      
+      
     ],
   },
   {
