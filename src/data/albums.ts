@@ -14,6 +14,12 @@ export const albums: Album[] = [
       'https://i.imgur.com/64J29ie.jpeg',
       'https://i.imgur.com/waa4v6S.jpeg',
       'https://i.imgur.com/6tt5LEN.jpeg',
+      'https://i.imgur.com/aZQdgYb.jpeg',
+      'https://i.imgur.com/HB6Az45.jpeg',
+      'https://i.imgur.com/VGmTrlC.jpeg',
+      'https://i.imgur.com/qelo7wk.jpeg',
+      'https://i.imgur.com/lwjELrq.jpeg',
+      
     ],
   },
   {
