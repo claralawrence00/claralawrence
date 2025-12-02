@@ -1,6 +1,6 @@
 function Hero() {
   // Change this URL to your PNG image link
-  const portraitImageUrl = 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400&h=600';
+  const portraitImageUrl = 'https://i.imgur.com/ohUrwNq.jpeg';
 
   return (
     <section
