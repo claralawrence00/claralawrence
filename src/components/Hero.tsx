@@ -8,7 +8,7 @@ function Hero() {
         <h1 className="font-serif text-8xl md:text-7xl lg:text-9xl text-white mb-6 tracking-wide animate-fade-in-up"
           style={{ animationDelay: '0.0s' }}
         >
-          Clara Lawrence
+          Clara Lawrence - Test
         </h1>
 
         <div className="h-px w-32 mx-auto bg-gradient-to-r from-transparent via-[#D4AF37] to-transparent mb-6 animate-fade-in-up"
