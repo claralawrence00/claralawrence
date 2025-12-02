@@ -37,7 +37,7 @@ function Hero() {
       </div>
 
       {/* SLIKA NA DESNOJ STRANI - Počinje od navigation bara do kraja hero sekcije */}
-      <div className="hidden lg:flex flex-5 items-stretch justify-center fixed right-0 top-0 h-screen w-1/2">
+      <div className="hidden lg:flex flex-2 items-stretch justify-center fixed right-0 top-0 h-screen w-1/2">
         <img
           src={portraitImageUrl}
           alt="Portrait"
