@@ -32,7 +32,7 @@ function Hero() {
           </p>
         </div>
 
-        <div className="hidden lg:flex flex-5 items-center justify-center">
+        <div className="hidden lg:flex flex-1 items-center justify-center">
           <img
             src={portraitImageUrl}
             alt="Portrait"
