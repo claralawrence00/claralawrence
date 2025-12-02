@@ -2,7 +2,7 @@ function Hero() {
   // UPUTE ZA PROMENU SLIKE:
   // 1. Zameni URL ispod sa svojom PNG slikom (punom veličinom portreta)
   // 2. Za vraćanje na originalnu malu sliku, koristi: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400&h=600'
-  const portraitImageUrl = 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400&h=600';
+  const portraitImageUrl = 'https://gcdnb.pbrd.co/images/gBBcnMJ16Zkm.png?o=1';
 
   return (
     <section
