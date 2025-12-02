@@ -22,7 +22,7 @@ function Gallery() {
     <section id="gallery" className="min-h-screen px-6 py-24">
       <div className="max-w-7xl mx-auto">
         <h2 className="font-serif text-5xl md:text-6xl text-white mb-8 tracking-wide text-center">
-          Albums
+          Pinned Albums
         </h2>
 
         <div className="h-px w-24 mx-auto bg-gradient-to-r from-transparent via-[#D4AF37] to-transparent mb-16"></div>
