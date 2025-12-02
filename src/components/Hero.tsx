@@ -1,6 +1,6 @@
 function Hero() {
   // Change this URL to your PNG image link
-  const portraitImageUrl = 'https://pasteboard.co/gBBcnMJ16Zkm.png';
+  const portraitImageUrl = 'https://gcdnb.pbrd.co/images/gBBcnMJ16Zkm.png?o=1';
 
   return (
     <section
