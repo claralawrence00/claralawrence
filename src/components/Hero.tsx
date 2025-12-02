@@ -37,7 +37,7 @@ function Hero() {
             src={portraitImageUrl}
             alt="Portrait"
             className="w-full max-w-sm h-auto object-cover animate-fade-in-up"
-            style={{ animationDelay: '0.9s' }}
+            style={{ animationDelay: '0.0s' }}
           />
         </div>
       </div>
