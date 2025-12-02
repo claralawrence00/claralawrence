@@ -14,7 +14,7 @@ function About() {
           </p>
 
           <p>
-            My goal is to help the city look visually beautiful and to connect people through clear and engaging communication. I strive to make every project reflect the city's uniqueness while bringing the community closer together.
+            My goal is to help the city look professional and to connect people through clear and engaging communication. I strive to make every project reflect the city's uniqueness while bringing the community closer together.
           </p>
 
           <p>
