@@ -10,7 +10,7 @@ function Hero() {
       className="relative w-full flex items-stretch"
     >
       {/* GLAVNI KONTEJNER - Tekst na levoj strani */}
-      <div className="flex-5 flex items-center justify-center px-6 pt-20 pb-20 min-h-screen">
+      <div className="flex-3 flex items-center justify-center px-6 pt-20 pb-20 min-h-screen">
         <div className="max-w-2xl">
           <h1 className="font-serif text-7xl md:text-7xl lg:text-8xl text-white mb-6 tracking-wide animate-fade-in-up"
             style={{ animationDelay: '0.1s' }}
